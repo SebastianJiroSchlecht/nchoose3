@@ -4,6 +4,7 @@
    of array. When X is a scalar integer > 1, it returns X*(X-1)*(X-2)/6.
 
    Example:
+   
     nchoose3([10 20 30 40 50])
     ->    10    20    30
           10    20    40
